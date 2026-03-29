@@ -128,7 +128,7 @@ const config = {
                 image: "https://via.placeholder.com/300x300?text=S+Navaneedha+Krishnan",
                 description: {
                     en: "Strategic advisor with extensive experience in property litigation and real estate development.",
-                    ta: "சொத்து வழக்குகள் மற்றும் ரியல் எஸ்டேட் மேம்பாட்டில் விரிவான அனுபவம் கொண்ட மூலோபாய ஆலோசகர்."
+                    ta: "35 ஆண்டுகளுக்கும் மேலான அனுபவம் கொண்ட சொத்து வழக்குகள் மற்றும் ரியல் எஸ்டேட் மேம்பாட்டில் விரிவான அனுபவம் கொண்ட மூலோபாய ஆலோசகர்."
                 },
                 isBrand: true
             },
@@ -144,7 +144,7 @@ const config = {
                 image: "https://via.placeholder.com/300x300?text=A.I.P+Sutherson",
                 description: {
                     en: "Leading expert in real estate and property solutions with over 15 years of experience.",
-                    ta: "15 ஆண்டுகளுக்கும் மேலான அனுபவம் கொண்ட ரியல் எஸ்டேட் மற்றும் சொத்து தீர்வுகளில் முன்னணி நிபுணர்."
+                    ta: "12 ஆண்டுகளுக்கும் மேலான அனுபவம் கொண்ட ரியல் எஸ்டேட் மற்றும் சொத்து தீர்வுகளில் முன்னணி நிபுணர்."
                 },
                 isBrand: true
             }
@@ -205,16 +205,16 @@ const config = {
         },
         info: {
             address: {
-                en: "123 Business Avenue, Chennai, Tamil Nadu",
-                ta: "123 வணிக அவென்யூ, சென்னை, தமிழ்நாடு"
+                en: "Door No.928 3rd Steet,Rahmath Nagar Maharaja Nagar Post Tirunelveli-627011. Tamilnadu",
+                ta:   "கதவு எண்.928 3வது ஸ்டீட், ரஹ்மத் நகர் மகாராஜா நகர் அஞ்சல் திருநெல்வேலி-627011. தமிழ்நாடு "
             },
             phone: {
-                en: "+91 98765 43210",
-                ta: "+91 98765 43210"
+                en: "9698881968",
+                ta: "9698881968"
             },
             email: {
-                en: "info@aipsutherson.com",
-                ta: "info@aipsutherson.com"
+                en: "sujisutherson@gmail.com",
+                ta: "sujisutherson@gmail.com"
             }
         },
         form: {
